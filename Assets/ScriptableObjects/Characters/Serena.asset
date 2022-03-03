@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7d1e1356728c43b4f85388f5604384fb, type: 3}
-  m_Name: Dario
+  m_Name: Serena
   m_EditorClassIdentifier: 
-  characterName: Dario
-  characterClass: Guerrier de l'espace
-  maxLife: 1003
-  maxPI: 500
-  attack: 307
-  intelligence: 305
-  defense: 451
-  characterImage: {fileID: 21300000, guid: 9acafe7436fc419429135fb66745b900, type: 3}
+  characterName: Serena
+  characterClass: "Armuri\xE8re"
+  maxLife: 1087
+  maxPI: 600
+  attack: 503
+  intelligence: 400
+  defense: 390
+  characterImage: {fileID: 21300000, guid: 080cb05bb953edc4f984b9e8bb2977d6, type: 3}

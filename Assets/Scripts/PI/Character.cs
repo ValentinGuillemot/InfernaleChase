@@ -12,7 +12,12 @@ public class Character : ScriptableObject
     [SerializeField]
     string characterName = "Player";
 
+    [SerializeField]
+    string characterClass = "Class";
+
     public string Name => characterName;
+
+    public string Class => characterClass;
 
     float currentLife;
     int targetLife;
