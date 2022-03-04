@@ -38,10 +38,15 @@ public class Character : ScriptableObject
 
     [SerializeField]
     int attack;
+    public int Attack => attack;
+
     [SerializeField]
     int intelligence;
+    public int Intel => intelligence;
+
     [SerializeField]
     int defense;
+    public int Def => defense;
 
     [SerializeField]
     Sprite characterImage;
