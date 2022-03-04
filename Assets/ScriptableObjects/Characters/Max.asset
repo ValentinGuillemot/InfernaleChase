@@ -20,3 +20,9 @@ MonoBehaviour:
   intelligence: 30
   defense: 240
   characterImage: {fileID: 21300000, guid: 30e1cb7054263554886049ecb82d8c49, type: 3}
+  defaultAction: {fileID: 11400000, guid: db879de55fbd7674b809d06dc061176b, type: 2}
+  skills:
+  - {fileID: 11400000, guid: db879de55fbd7674b809d06dc061176b, type: 2}
+  - {fileID: 11400000, guid: db879de55fbd7674b809d06dc061176b, type: 2}
+  - {fileID: 11400000, guid: db879de55fbd7674b809d06dc061176b, type: 2}
+  - {fileID: 11400000, guid: db879de55fbd7674b809d06dc061176b, type: 2}

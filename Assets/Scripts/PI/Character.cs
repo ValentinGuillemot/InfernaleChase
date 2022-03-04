@@ -53,6 +53,16 @@ public class Character : ScriptableObject
 
     public Sprite Image => characterImage;
 
+    [SerializeField]
+    Skill defaultAction;
+
+    public Skill DefaultAction => defaultAction;
+
+    [SerializeField]
+    Skill[] skills = new Skill[4];
+
+    public Skill[] Skills => skills;
+
     public void Initialize()
     {
         currentLife = maxLife;
