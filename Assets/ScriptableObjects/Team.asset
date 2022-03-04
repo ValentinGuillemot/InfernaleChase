@@ -12,3 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d62ac3ca7a53852478e8dbf3394a444c, type: 3}
   m_Name: Team
   m_EditorClassIdentifier: 
+  partyMembers:
+  - {fileID: 11400000, guid: b1597cfa53a53d04ca64e944e878d46a, type: 2}
+  - {fileID: 11400000, guid: 2abc7b1822224df44bd66c5ac2f9f949, type: 2}
+  - {fileID: 11400000, guid: 619bac0f703319e44bc2778dc3f3e62e, type: 2}
+  - {fileID: 11400000, guid: a783034bddedf0d439ffe422a0ae7d0e, type: 2}
+  - {fileID: 11400000, guid: 1fb2726e899f1b94d97ebfd583bd6814, type: 2}
+  - {fileID: 11400000, guid: 01fca53d0d534274196b26bdfec2edbe, type: 2}
+  - {fileID: 11400000, guid: 2b2393820b60c004fbcd3c555f36dcb8, type: 2}
+  - {fileID: 11400000, guid: d67472bd4e815c240a465f59dff23eb1, type: 2}
+  - {fileID: 11400000, guid: 23fade0d60799344d96ee6b6fe252cff, type: 2}
+  - {fileID: 11400000, guid: 660f9c1ae10be714e8f9736710600abb, type: 2}
+  - {fileID: 11400000, guid: 9cb5702b89b46d547b4e6bba82504575, type: 2}
+  - {fileID: 11400000, guid: a63acf41b8a803b45bf703bd13f9d011, type: 2}
+  - {fileID: 11400000, guid: 6716cf3a145b10a4f8c74c5a16497fdb, type: 2}
+  - {fileID: 11400000, guid: 014c27204e7ffbd4cb1cbf83fb53dd5b, type: 2}
+  - {fileID: 11400000, guid: 60c42c1c173241f45885fb80209b49cf, type: 2}
+  - {fileID: 11400000, guid: 38914d347e2da7d44a4b963ed719556b, type: 2}

@@ -9,6 +9,8 @@ public class CharacterUI : MonoBehaviour
     [SerializeField]
     Character _character;
 
+    public Character Character => _character;
+
     [SerializeField]
     TextMeshProUGUI _nameField;
 

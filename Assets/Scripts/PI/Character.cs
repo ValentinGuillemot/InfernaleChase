@@ -48,8 +48,15 @@ public class Character : ScriptableObject
 
     public Sprite Image => characterImage;
 
+    public void Initialize()
+    {
+        currentLife = maxLife;
+        currentPI = maxPI;
+    }
+
     public void TakeDamage(float damage)
     {
         currentLife = Mathf.Clamp(currentLife - damage, 0.0f, maxLife);
+        OnTookDamage();
     }
 }
