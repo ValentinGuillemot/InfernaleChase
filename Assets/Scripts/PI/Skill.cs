@@ -7,6 +7,8 @@ public class Skill : ScriptableObject
 {
     public string SkillName;
 
+    public int PICost = 0;
+
     public EType Type = EType.Attack;
 
     public EDamageType damageType = EDamageType.Physical;

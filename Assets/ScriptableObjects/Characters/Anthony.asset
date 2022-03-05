@@ -22,7 +22,7 @@ MonoBehaviour:
   characterImage: {fileID: 21300000, guid: 27f02525dcb450147ab6678b43024658, type: 3}
   defaultAction: {fileID: 11400000, guid: db879de55fbd7674b809d06dc061176b, type: 2}
   skills:
-  - {fileID: 11400000, guid: db879de55fbd7674b809d06dc061176b, type: 2}
-  - {fileID: 11400000, guid: db879de55fbd7674b809d06dc061176b, type: 2}
-  - {fileID: 11400000, guid: db879de55fbd7674b809d06dc061176b, type: 2}
-  - {fileID: 11400000, guid: db879de55fbd7674b809d06dc061176b, type: 2}
+  - {fileID: 11400000, guid: e046a5e58f55b984c9a38186a4eb7d1d, type: 2}
+  - {fileID: 11400000, guid: 2e799c8489b65d9468e7333b6c994af5, type: 2}
+  - {fileID: 11400000, guid: 02ed07ddf9405c0448a412db0a49b0d1, type: 2}
+  - {fileID: 11400000, guid: f39b4741f3047944ea69eaeaa6492879, type: 2}
