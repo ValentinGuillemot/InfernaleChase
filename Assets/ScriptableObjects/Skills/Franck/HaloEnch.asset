@@ -12,12 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26887cd3f5637304a9290099172f4350, type: 3}
   m_Name: HaloEnch
   m_EditorClassIdentifier: 
-  SkillName: 
-  PICost: 0
-  Type: 0
-  damageType: 0
+  SkillName: "Halo enchant\xE9"
+  PICost: 20
+  Type: 2
+  damageType: 1
   Element: 0
   NumberOfTargets: 1
   NumberOfHit: 1
   HasRandomTarget: 0
-  Description: 
+  Description: "Monte de 10% les d\xE9g\xE2ts inflig\xE9s par les attaques \xE9l\xE9mentaires
+    de la cible pendant 3 tours."

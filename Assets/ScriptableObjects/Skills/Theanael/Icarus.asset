@@ -12,12 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26887cd3f5637304a9290099172f4350, type: 3}
   m_Name: Icarus
   m_EditorClassIdentifier: 
-  SkillName: 
-  PICost: 0
+  SkillName: "Fl\xE8che d'Icare"
+  PICost: 15
   Type: 0
   damageType: 0
   Element: 0
   NumberOfTargets: 1
   NumberOfHit: 1
   HasRandomTarget: 0
-  Description: 
+  Description: "Inflige 6 fois le quart des dommages d'une attaque physique neutre
+    \xE0 la cible."

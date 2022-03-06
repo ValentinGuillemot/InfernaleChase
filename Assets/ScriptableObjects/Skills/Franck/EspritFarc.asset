@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26887cd3f5637304a9290099172f4350, type: 3}
   m_Name: EspritFarc
   m_EditorClassIdentifier: 
-  SkillName: 
-  PICost: 0
+  SkillName: Esprit farceur
+  PICost: 5
   Type: 0
-  damageType: 0
+  damageType: 1
   Element: 0
   NumberOfTargets: 1
   NumberOfHit: 1
   HasRandomTarget: 0
-  Description: 
+  Description: "Attaque magique dont l'\xE9l\xE9ment est al\xE9atoire."

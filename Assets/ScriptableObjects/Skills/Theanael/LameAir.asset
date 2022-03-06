@@ -12,12 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26887cd3f5637304a9290099172f4350, type: 3}
   m_Name: LameAir
   m_EditorClassIdentifier: 
-  SkillName: 
-  PICost: 0
+  SkillName: Lame d'air
+  PICost: 20
   Type: 0
   damageType: 0
   Element: 0
   NumberOfTargets: 1
   NumberOfHit: 1
   HasRandomTarget: 0
-  Description: 
+  Description: "Au sol, inflige une attaque physique de Vent. Dans les airs, se pose
+    puis inflige le double d'une attaque magique de Vent bas\xE9e sur l'Attaque."

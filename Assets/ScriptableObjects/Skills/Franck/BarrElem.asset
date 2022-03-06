@@ -12,12 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26887cd3f5637304a9290099172f4350, type: 3}
   m_Name: BarrElem
   m_EditorClassIdentifier: 
-  SkillName: 
-  PICost: 0
-  Type: 0
-  damageType: 0
+  SkillName: "Barri\xE8re \xE9l\xE9mentaire"
+  PICost: 40
+  Type: 2
+  damageType: 1
   Element: 0
   NumberOfTargets: 1
   NumberOfHit: 1
   HasRandomTarget: 0
-  Description: 
+  Description: "Monte la r\xE9sistance de la cible \xE0 un \xE9l\xE9ment pendant
+    3 tours."
